@@ -51,3 +51,6 @@ nav ul li a:active{
     color: purple;
     background-image: linear-gradient(to right, #fda085 0%, #f6d365, #fda085)
 }
+.history{
+    column-count: 3;
+}
